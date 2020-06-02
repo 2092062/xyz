@@ -1,0 +1,2 @@
+rootProject.name='TIME TABLE GENERATER'
+include ':app'
